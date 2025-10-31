@@ -3,3 +3,8 @@ build
 AndroidBuild
 emscripten-build
 src/Remotery/src/RemoteryConfig.h
+CMakeFiles/.DS_Store
+src/vulkan/shaderc/.DS_Store
+src/vulkan/.DS_Store
+src/.DS_Store
+.DS_Store
